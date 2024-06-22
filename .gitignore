@@ -1,0 +1,22 @@
+# Ignorar archivos de Word
+*.doc
+*.docx
+*.rtf
+
+# Ignorar archivos CSV
+*.csv
+
+# Ignorar archivos de Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+
+# Ignorar todas las carpetas
+*/
+
+# Ignorar archivos por extensión
+*.pdf
+*.zip
+*.mwb
+*.txt
